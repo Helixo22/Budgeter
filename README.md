@@ -19,4 +19,4 @@ Budgeter is a financial management app that allows users to track income and exp
     Run the app:
 
     python app.py
-```
+
